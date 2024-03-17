@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: webflux-spring
+  reactor:
+    debug-agent:
+      enabled: true
